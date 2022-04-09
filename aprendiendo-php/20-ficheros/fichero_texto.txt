@@ -1,0 +1,4 @@
+Hola soy un archivo de texto aaaa
+Esta es la segunda linea
+Y esta es la tercera
+cvbvcbvcbcv*** Soy un texto metido desde php ****** Soy un texto metido desde php ****** Soy un texto metido desde php ***
